@@ -6,7 +6,7 @@ I created this project using Flutter's **CustomPainter** to draw the clock face,
 
 ## 📱 Preview
 
-![Analog Clock Preview](assets/preview.png)
+![Flutter Analog Clock](Preview/Screenshot%20(88).png)
 
 ## ✨ Features
 
